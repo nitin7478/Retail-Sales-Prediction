@@ -1,2 +1,2 @@
-# Retail-Sales-Prediction
-AlmaBetter capstone project "Retail Sales Prediction"
+# Retail-Sales-Prediction-AlmaBetter-Capstone-ML
+AlmaBetter capstone machine learning final project "Retail Sales Prediction"
